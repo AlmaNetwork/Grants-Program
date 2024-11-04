@@ -82,7 +82,7 @@ In addition, by storing various information associated with the wallet, it can c
     - Won the Grand Prize at the JP HACKS hackathon hosted by the **University of Tokyo**.
   - **Blockchain Research and Development**
     - Completed a Master's thesis on blockchain and graduated with a focus on blockchain technology.
-    - Worked at Solamitsu Corporation, contributing to the **Hyperledger/Iroha** proposal to the Linux Foundation.
+    - Worked at Soramitsu Corporation, contributing to the **Hyperledger/Iroha** proposal to the Linux Foundation.
     - Designed and developed a national payment currency system in collaboration with the **National Bank of Cambodia** (Central Bank).
   - **Web, Server, and Mobile Development**
     - Provided services in web, server, and mobile application development.
